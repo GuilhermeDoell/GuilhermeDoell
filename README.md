@@ -1,4 +1,4 @@
-### Hi there, my name is Guilherme Doell 👋
+### Hi there, i'm Guilherme Doell 👋
 
 
 - 🔭 I’m currently working on Yduqs
