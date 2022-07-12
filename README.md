@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on Yduqs
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NODEJS, GIT, React, Typescript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Node.js, GIT, React, Typescript
 - 📫 How to reach me: guilhermedoell@outlook.com
 
