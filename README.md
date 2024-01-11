@@ -6,4 +6,5 @@
 - 📫 How to reach me: guilhermedoell@outlook.com
 
 [CV dev - Guilherme Doell.pdf](https://github.com/GuilhermeDoell/GuilhermeDoell/files/13906368/CV.dev.-.Guilherme.Doell.pdf)
+
 [Resume developer - Guilherme Doell.pdf](https://github.com/GuilhermeDoell/GuilhermeDoell/files/13906370/Resume.developer.-.Guilherme.Doell.pdf)
