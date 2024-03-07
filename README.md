@@ -1,7 +1,7 @@
 ### Hi there, i'm Guilherme Doell 👋
 
 
-- 🔭 I’m currently working on Yduqs and Lawing (part-time job)
+- 🔭 I’m currently working on Zane and Lawing (part-time job)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Node.js, GIT, React, Typescript
 - 📫 How to reach me: guilhermedoell@outlook.com
 
