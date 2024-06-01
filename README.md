@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working on Zane and Lawing (part-time job)
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Node.js, GIT, React, Typescript
+- 🌱 I’m currently learning Python, TypeScript, Azure, JavaScript, Docker, PostgreSQL, React
 - 📫 How to reach me: guilhermedoell@outlook.com
 
 Currículo desenvolvedor:
-[CV dev - Guilherme Doell.pdf](https://github.com/GuilhermeDoell/GuilhermeDoell/files/13977649/CV.dev.-.Guilherme.Doell.pdf)
+[CV dev - Guilherme Doell.pdf](https://github.com/user-attachments/files/15520091/CV.dev.-.Guilherme.Doell.pdf)
 
 Resume developer:
-[Resume developer - Guilherme Doell.pdf](https://github.com/GuilhermeDoell/GuilhermeDoell/files/13906370/Resume.developer.-.Guilherme.Doell.pdf)
+[Software developer resume - Guilherme Doell (2).pdf](https://github.com/user-attachments/files/15520093/Software.developer.resume.-.Guilherme.Doell.2.pdf)
