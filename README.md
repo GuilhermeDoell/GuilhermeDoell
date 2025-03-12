@@ -1,8 +1,8 @@
 ### Hi there, i'm Guilherme Doell 👋
 
 
-- 🔭 I’m currently working on Avati
-- 🌱 I’m currently learning Python, Java, Kotlin, TypeScript, Azure, JavaScript, Docker, PostgreSQL, React, Angular
+- 🔭 I’m currently working as a Back-End developer at Avati.
+- 🌱 Stacks: Python, Java, Kotlin, TypeScript, Azure, JavaScript, Docker, PostgreSQL, React, Angular.
 - 📫 How to reach me: guilhermedoell@outlook.com
 
 Currículo desenvolvedor:
